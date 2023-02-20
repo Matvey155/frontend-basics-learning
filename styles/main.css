@@ -1,9 +1,14 @@
-body {
-    font-family: arial;
-    font-size: 24px;
-    color: #294a70;
+p  {
+    background-color: blue;
 }
 
-body {
-    background-color: #FFFFFF;
+.green-text {
+    color: green;
 }
+
+.important-notice {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: orange;
+}
+
