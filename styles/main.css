@@ -74,6 +74,7 @@ ul {
     align-items: center;
     padding-top: 39px;
     padding-bottom: 49px;
+    background-color: #FFFFFF;
 }
 
 .menu-list {
@@ -99,3 +100,24 @@ ul {
     display:flex;
 }
 
+.section:not(:last-child) {
+    margin-bottom: 250px;
+}
+    
+h1.section-title {
+    font-size: 60px;
+}
+    
+h2.section-title {
+    font-size: 32px;
+}
+
+.flower-image {
+    border-radius: 10px;
+}
+
+.flower {
+    display: flex;
+}
+
+    
